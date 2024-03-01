@@ -3,7 +3,7 @@
   position: relative;
   width: 200px;
   margin: auto;
-  height: 66px;
+  height: 40px;
 }
 .hero-btn .btn {
   background-color: #4CAF50; /* Nuevo color de fondo */
@@ -17,7 +17,7 @@
   width: 200px;
   height: 40px;
   text-align: center;
-  line-height: 66px;
+  line-height: 40px;
   font-size: 22px;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -715,10 +715,10 @@ h1 {
   display: none;
 }
 #textoAmor {
-  font-size: 60px; /* Tamaño del texto aumentado */
+  font-size: 40px; /* Tamaño del texto aumentado */
   position: absolute;
   top: -300px; /* Ajuste de la posición superior */
-  left: 50%;
+  left: 40%;
   transform: translateX(-50%);
   color: #c54384;
   text-decoration: none;
