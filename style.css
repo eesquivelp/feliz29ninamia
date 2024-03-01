@@ -726,6 +726,6 @@ h1 {
 }
 
 #textoAmor::after {
-  content: ' ♥'; /* Agregamos el corazón después del texto */
+  content: ' ♥ '; /* Agregamos el corazón después del texto */
   color: red; /* Cambiamos el color del corazón, puedes ajustarlo según tu preferencia */
 }
